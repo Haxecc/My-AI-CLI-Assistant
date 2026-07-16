@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/env zsh
 
 ai="gemma2:2b"
@@ -52,3 +53,4 @@ else
 fi
 
 deactivate
+
